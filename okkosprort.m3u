@@ -9,3 +9,34 @@ http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2407/index.m3u8
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2420/index.m3u8
 #EXTINF:-1 tvg-id="match_futbol_3_fhd" tvg-name="Матч! Футбол 3 FHD" tvg-logo="" group-title="Спорт",Матч! Футбол 3 FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2408/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ FHD
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/2417/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ HD
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/237/index.m3u8
+#EXTINF:0 tvg-rec="7",ТНТ
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/502/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ +2
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/717/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +4
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6035/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ +7
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6049/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/506/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +2
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6015/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +4
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6029/index.m3u8
+#EXTINF:0 tvg-rec="0",СТС +7
+#EXTGRP:Общие
+http://db3a91d9.ucomist.net/iptv/77TCWXB27W5ZWMLMR4CHKWAX/6043/index.m3u8
+#EXTINF:0 tvg-rec="7",РЕН ТВ HD
