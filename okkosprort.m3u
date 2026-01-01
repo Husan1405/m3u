@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="okko_sport_hd" tvg-name="Окко Спорт HD" tvg-logo="" group-title="Спорт",Окко Спорт HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20138/index.m3u8
+#EXTINF:-1 tvg-id="okko_football_hd" tvg-name="Окко Футбол HD" tvg-logo="" group-title="Спорт",Окко Футбол HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6554/index.m3u8
+#EXTINF:-1 tvg-id="match_futbol_1" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="Спорт",Матч! Футбол 1
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2407/index.m3u8
+#EXTINF:-1 tvg-id="match_futbol_2_fhd" tvg-name="Матч! Футбол 2 FHD" tvg-logo="" group-title="Спорт",Матч! Футбол 2 FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2420/index.m3u8
+#EXTINF:-1 tvg-id="match_futbol_3_fhd" tvg-name="Матч! Футбол 3 FHD" tvg-logo="" group-title="Спорт",Матч! Футбол 3 FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2408/index.m3u8
