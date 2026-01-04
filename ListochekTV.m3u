@@ -1,283 +1,349 @@
 #EXTM3U
-
-# Общие
-#EXTINF:-1 tvg-id="perviy" tvg-name="Первый канал" tvg-logo="" group-title="Общие",Первый канал
+#EXTINF:-1 group-title="Общие",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 tvg-id="perviy_fhd" tvg-name="Первый канал FHD" tvg-logo="" group-title="Общие",Первый канал FHD
+#EXTINF:-1 group-title="Общие",Первый канал FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2402/index.m3u8
-#EXTINF:-1 tvg-id="russia1" tvg-name="Россия 1" tvg-logo="" group-title="Общие",Россия 1
+#EXTINF:-1 group-title="Общие",Россия 1
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-#EXTINF:-1 tvg-id="russia1_hd" tvg-name="Россия 1 HD" tvg-logo="" group-title="Общие",Россия 1 HD
+#EXTINF:-1 group-title="Общие",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="" group-title="Общие",НТВ
-http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv_hd" tvg-name="НТВ HD" tvg-logo="" group-title="Общие",НТВ HD
-http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/213/index.m3u8
-#EXTINF:-1 tvg-id="tvc" tvg-name="ТВ Центр" tvg-logo="" group-title="Общие",ТВ Центр
+#EXTINF:-1 group-title="Общие",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие",ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="pyatyi" tvg-name="Пятый канал" tvg-logo="" group-title="Общие",Пятый канал
+#EXTINF:-1 group-title="Общие",Пятый канал
 http://178.163.49.177:4022/udp/234.0.0.205:2000
-#EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="" group-title="Общие",ОТР
+#EXTINF:-1 group-title="Общие",ОТР
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/705/index.m3u8
-#EXTINF:-1 tvg-id="otr_hd" tvg-name="ОТР HD" tvg-logo="" group-title="Общие",ОТР HD
+#EXTINF:-1 group-title="Общие",ОТР HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20018/index.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="" group-title="Общие",Мир
+#EXTINF:-1 group-title="Общие",Мир
 http://158.101.222.193:88/georgia_play.php?id=mir
-#EXTINF:-1 tvg-id="mir_hd" tvg-name="Мир HD" tvg-logo="" group-title="Общие",Мир HD
+#EXTINF:-1 group-title="Общие",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="360_hd" tvg-name="360° HD" tvg-logo="" group-title="Общие",360° HD
+#EXTINF:-1 group-title="Общие",360° HD
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="" group-title="Общие",Звезда
+#EXTINF:-1 group-title="Общие",Звезда
 http://uiptv.do.am/1ufc/115312670/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda_plus" tvg-name="Звезда Плюс HD" tvg-logo="" group-title="Общие",Звезда Плюс HD
+#EXTINF:-1 group-title="Общие",Звезда Плюс HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19230/index.m3u8
-#EXTINF:-1 tvg-id="vmeste_rf" tvg-name="Вместе РФ" tvg-logo="" group-title="Общие",Вместе РФ
+#EXTINF:-1 group-title="Общие",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-# Фильмовые
-#EXTINF:-1 tvg-id="viasat_kino_world" tvg-name="Viasat Kino World HD" tvg-logo="" group-title="Фильмовые",Viasat Kino World HD
+#EXTINF:-1 group-title="Фильмовые",Viasat Kino World HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/31448/index.m3u8
-#EXTINF:-1 tvg-id="lyubimoe_kino" tvg-name="Любимое Кино HD" tvg-logo="" group-title="Фильмовые",Любимое Кино HD
+#EXTINF:-1 group-title="Фильмовые",Любимое Кино HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20014/index.m3u8
-#EXTINF:-1 tvg-id="fx_hd" tvg-name="FX HD" tvg-logo="" group-title="Фильмовые",FX HD
+#EXTINF:-1 group-title="Фильмовые",FX HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19216/index.m3u8
-#EXTINF:-1 tvg-id="viju_tv1000_novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="" group-title="Фильмовые",Viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2002/index.m3u8
-#EXTINF:-1 tvg-id="viasat_serial" tvg-name="Viasat Serial" tvg-logo="" group-title="Фильмовые",Viasat Serial
+#EXTINF:-1 group-title="Фильмовые",Viasat Serial
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/17056/index.m3u8
-#EXTINF:-1 tvg-id="sci_fi_hd" tvg-name=".sci-fi HD" tvg-logo="" group-title="Фильмовые",.sci-fi HD
+#EXTINF:-1 group-title="Фильмовые",.sci-fi HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20020/index.m3u8
-#EXTINF:-1 tvg-id="scream_hd" tvg-name="Scream HD" tvg-logo="" group-title="Фильмовые",Scream HD
+#EXTINF:-1 group-title="Фильмовые",Scream HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20021/index.m3u8
-#EXTINF:-1 tvg-id="shot_tv" tvg-name="Shot TV HD" tvg-logo="" group-title="Фильмовые",Shot TV HD
+#EXTINF:-1 group-title="Фильмовые",Shot TV HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20022/index.m3u8
-#EXTINF:-1 tvg-id="o_kino" tvg-name="О!Кино" tvg-logo="" group-title="Фильмовые",О!Кино
+#EXTINF:-1 group-title="Фильмовые",О!Кино
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20023/index.m3u8
-#EXTINF:-1 tvg-id="now_series" tvg-name="NOW Series HD" tvg-logo="" group-title="Фильмовые",NOW Series HD
+#EXTINF:-1 group-title="Фильмовые",NOW Series HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15102/index.m3u8
-#EXTINF:-1 tvg-id="filmzone_plus" tvg-name="FilmZone Plus HD" tvg-logo="" group-title="Фильмовые",FilmZone Plus HD
+#EXTINF:-1 group-title="Фильмовые",FilmZone Plus HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20025/index.m3u8
-#EXTINF:-1 tvg-id="fx_life" tvg-name="FX Life HD" tvg-logo="" group-title="Фильмовые",FX Life HD
+#EXTINF:-1 group-title="Фильмовые",FX Life HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14003/index.m3u8
-#EXTINF:-1 tvg-id="fan_hd" tvg-name="FAN HD" tvg-logo="" group-title="Фильмовые",FAN HD
+#EXTINF:-1 group-title="Фильмовые",FAN HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/16021/index.m3u8
-#EXTINF:-1 tvg-id="ostrosyuzhetnoe" tvg-name="Остросюжетное HD" tvg-logo="" group-title="Фильмовые",Остросюжетное HD
+#EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/904/index.m3u8
-#EXTINF:-1 tvg-id="prem_fhd" tvg-name="Премиальное FHD" tvg-logo="" group-title="Фильмовые",Премиальное FHD
+#EXTINF:-1 group-title="Фильмовые",Премиальное FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2410/index.m3u8
-#EXTINF:-1 tvg-id="blokbaster" tvg-name="Блокбастер HD" tvg-logo="" group-title="Фильмовые",Блокбастер HD
+#EXTINF:-1 group-title="Фильмовые",Блокбастер HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2436/index.m3u8
-#EXTINF:-1 tvg-id="hit_hd" tvg-name="Хит HD" tvg-logo="" group-title="Фильмовые",Хит HD
+#EXTINF:-1 group-title="Фильмовые",Хит HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2438/index.m3u8
-#EXTINF:-1 tvg-id="nashe_muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="" group-title="Фильмовые",Наше Мужское HD
+#EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2440/index.m3u8
-#EXTINF:-1 tvg-id="komedi_hd" tvg-name="Камеди HD" tvg-logo="" group-title="Фильмовые",Камеди HD
+#EXTINF:-1 group-title="Фильмовые",Камеди HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2441/index.m3u8
-#EXTINF:-1 tvg-id="viju_plus_serial" tvg-name="Viju+ Serial HD" tvg-logo="" group-title="Фильмовые",Viju+ Serial HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2443/index.m3u8
-#EXTINF:-1 tvg-id="romantichnoe" tvg-name="Романтичное HD" tvg-logo="" group-title="Фильмовые",Романтичное HD
+#EXTINF:-1 group-title="Фильмовые",Романтичное HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5053/index.m3u8
-#EXTINF:-1 tvg-id="dushevnoe" tvg-name="Душевное HD" tvg-logo="" group-title="Фильмовые",Душевное HD
+#EXTINF:-1 group-title="Фильмовые",Душевное HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/914/index.m3u8
-#EXTINF:-1 tvg-id="lyubimoe_hd" tvg-name="Любимое HD" tvg-logo="" group-title="Фильмовые",Любимое HD
+#EXTINF:-1 group-title="Фильмовые",Любимое HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2106/index.m3u8
-#EXTINF:-1 tvg-id="dorama_hd" tvg-name="Дорама HD" tvg-logo="" group-title="Фильмовые",Дорама HD
+#EXTINF:-1 group-title="Фильмовые",Дорама HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2131/index.m3u8
-#EXTINF:-1 tvg-id="kino_tv" tvg-name="Кино ТВ HD" tvg-logo="" group-title="Фильмовые",Кино ТВ HD
+#EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2097/index.m3u8
-#EXTINF:-1 tvg-id="amedia_premium" tvg-name="Amedia Premium HD" tvg-logo="" group-title="Фильмовые",Amedia Premium HD
+#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/229/index.m3u8
-#EXTINF:-1 tvg-id="viju_comedy" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="Фильмовые",Viju+ Comedy HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/200/index.m3u8
-#EXTINF:-1 tvg-id="viju_megahit" tvg-name="Viju+ Megahit HD" tvg-logo="" group-title="Фильмовые",Viju+ Megahit HD
+#EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/201/index.m3u8
-#EXTINF:-1 tvg-id="epic_drama" tvg-name="Epic Drama" tvg-logo="" group-title="Фильмовые",Epic Drama
+#EXTINF:-1 group-title="Фильмовые",Epic Drama
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/1048/index.m3u8
-#EXTINF:-1 tvg-id="den_pobedy" tvg-name="День Победы HD" tvg-logo="" group-title="Фильмовые",День Победы HD
+#EXTINF:-1 group-title="Фильмовые",День Победы HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5054/index.m3u8
-#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа HD" tvg-logo="" group-title="Фильмовые",Победа HD
+#EXTINF:-1 group-title="Фильмовые",Победа HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5052/index.m3u8
-#EXTINF:-1 tvg-id="amedia2_hd" tvg-name="Amedia 2 HD" tvg-logo="" group-title="Фильмовые",Amedia 2 HD
+#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2046/index.m3u8
-#EXTINF:-1 tvg-id="viju_tv1000_rus" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="Фильмовые",Viju TV1000 Русское
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/101/index.m3u8
-#EXTINF:-1 tvg-id="sci_fi" tvg-name=".sci-fi" tvg-logo="" group-title="Фильмовые",.sci-fi
+#EXTINF:-1 group-title="Фильмовые",.sci-fi
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/110/index.m3u8
-#EXTINF:-1 tvg-id="kinomix" tvg-name="Киномикс" tvg-logo="" group-title="Фильмовые",Киномикс
+#EXTINF:-1 group-title="Фильмовые",Киномикс
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/509/index.m3u8
-#EXTINF:-1 tvg-id="kinosemya" tvg-name="Киносемья" tvg-logo="" group-title="Фильмовые",Киносемья
+#EXTINF:-1 group-title="Фильмовые",Киносемья
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/125/index.m3u8
-#EXTINF:-1 tvg-id="rodnoe_kino" tvg-name="Родное Кино" tvg-logo="" group-title="Фильмовые",Родное Кино
+#EXTINF:-1 group-title="Фильмовые",Родное Кино
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/126/index.m3u8
-#EXTINF:-1 tvg-id="viju_action" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Фильмовые",Viju TV1000 Action
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/131/index.m3u8
-#EXTINF:-1 tvg-id="kinohit" tvg-name="Кинохит" tvg-logo="" group-title="Фильмовые",Кинохит
+#EXTINF:-1 group-title="Фильмовые",Кинохит
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/516/index.m3u8
-#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="" group-title="Фильмовые",Amedia 2
+#EXTINF:-1 group-title="Фильмовые",Amedia 2
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/510/index.m3u8
-#EXTINF:-1 tvg-id="nashe_novoe_kino" tvg-name="Наше Новое Кино" tvg-logo="" group-title="Фильмовые",Наше Новое Кино
+#EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/517/index.m3u8
-#EXTINF:-1 tvg-id="kinokomediya" tvg-name="Кинокомедия" tvg-logo="" group-title="Фильмовые",Кинокомедия
+#EXTINF:-1 group-title="Фильмовые",Кинокомедия
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/145/index.m3u8
-#EXTINF:-1 tvg-id="indian_cinema" tvg-name="Индийское Кино" tvg-logo="" group-title="Фильмовые",Индийское Кино
+#EXTINF:-1 group-title="Фильмовые",Индийское Кино
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/146/index.m3u8
-#EXTINF:-1 tvg-id="russkiy_illyuzion" tvg-name="Русский иллюзион" tvg-logo="" group-title="Фильмовые",Русский иллюзион
+#EXTINF:-1 group-title="Фильмовые",Русский иллюзион
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/547/index.m3u8
-#EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="" group-title="Фильмовые",Кинеко
+#EXTINF:-1 group-title="Фильмовые",Кинеко
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/550/index.m3u8
-#EXTINF:-1 tvg-id="dom_kino" tvg-name="Дом Кино" tvg-logo="" group-title="Фильмовые",Дом Кино
+#EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/154/index.m3u8
-#EXTINF:-1 tvg-id="amedia_hit" tvg-name="Amedia Hit" tvg-logo="" group-title="Фильмовые",Amedia Hit
+#EXTINF:-1 group-title="Фильмовые",Amedia Hit
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/556/index.m3u8
-#EXTINF:-1 tvg-id="shokiruyuschee_hd" tvg-name="Шокирующее HD" tvg-logo="" group-title="Фильмовые",Шокирующее HD
+#EXTINF:-1 group-title="Фильмовые",Шокирующее HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6299/index.m3u8
-#EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="" group-title="Фильмовые",НСТ
+#EXTINF:-1 group-title="Фильмовые",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 tvg-id="strashnoe_hd" tvg-name="Страшное HD" tvg-logo="" group-title="Фильмовые",Страшное HD
+#EXTINF:-1 group-title="Фильмовые",Страшное HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/7247/index.m3u8
-#EXTINF:-1 tvg-id="kinopremiera" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Фильмовые",Кинопремьера HD
+#EXTINF:-1 group-title="Фильмовые",Кинопремьера HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/224/index.m3u8
-#EXTINF:-1 tvg-id="viju_premiere" tvg-name="viju+ Premiere" tvg-logo="" group-title="Фильмовые",viju+ Premiere
+#EXTINF:-1 group-title="Фильмовые",viju+ Premiere
 http://2.57.217.85:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="viju_megahit2" tvg-name="viju+ Megahit" tvg-logo="" group-title="Фильмовые",viju+ Megahit
+#EXTINF:-1 group-title="Фильмовые",viju+ Megahit
 http://2.57.217.85:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="viju_comedy2" tvg-name="viju+ Comedy" tvg-logo="" group-title="Фильмовые",viju+ Comedy
+#EXTINF:-1 group-title="Фильмовые",viju+ Comedy
 http://2.57.217.85:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="dom_kino_premium" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="Фильмовые",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5082/index.m3u8
-#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="Фильмовые",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6392/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Русский роман HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/9041/index.m3u8
 
-# Познавательные
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="" group-title="Познавательные",Discovery Channel
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/140/index.m3u8
-#EXTINF:-1 tvg-id="id" tvg-name="Investigation Discovery" tvg-logo="" group-title="Познавательные",Investigation Discovery
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2085/index.m3u8
-#EXTINF:-1 tvg-id="galaxy" tvg-name="Galaxy" tvg-logo="" group-title="Познавательные",Galaxy
+#EXTINF:-1 group-title="Познавательные",Galaxy
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2010/index.m3u8
-#EXTINF:-1 tvg-id="natgeo_hd" tvg-name="National Geographic HD" tvg-logo="" group-title="Познавательные",National Geographic HD
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14001/index.m3u8
-#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet HD" tvg-logo="" group-title="Познавательные",Animal Planet HD
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/218/index.m3u8
-#EXTINF:-1 tvg-id="nat_geo_wild" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Познавательные",Nat Geo Wild FHD
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2415/index.m3u8
-#EXTINF:-1 tvg-id="nasha_sibir" tvg-name="Наша Сибирь HD" tvg-logo="" group-title="Познавательные",Наша Сибирь HD
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/4003/index.m3u8
-#EXTINF:-1 tvg-id="terra" tvg-name="TERRA HD" tvg-logo="" group-title="Познавательные",TERRA HD
+#EXTINF:-1 group-title="Познавательные",TERRA HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2416/index.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="" group-title="Познавательные",TLC HD
+#EXTINF:-1 group-title="Познавательные",TLC HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/232/index.m3u8
-#EXTINF:-1 tvg-id="travel" tvg-name="Travel Channel HD" tvg-logo="" group-title="Познавательные",Travel Channel HD
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/233/index.m3u8
-#EXTINF:-1 tvg-id="history_hd" tvg-name="History HD" tvg-logo="" group-title="Познавательные",History HD
+#EXTINF:-1 group-title="Познавательные",History HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/231/index.m3u8
-#EXTINF:-1 tvg-id="viju_history" tvg-name="Viju History HD" tvg-logo="" group-title="Познавательные",Viju History HD
+#EXTINF:-1 group-title="Познавательные",Viju History HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/203/index.m3u8
-#EXTINF:-1 tvg-id="history2" tvg-name="History 2 FHD" tvg-logo="" group-title="Познавательные",History 2 FHD
+#EXTINF:-1 group-title="Познавательные",History 2 FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2033/index.m3u8
-#EXTINF:-1 tvg-id="rtg_hd" tvg-name="RTG HD" tvg-logo="" group-title="Познавательные",RTG HD
+#EXTINF:-1 group-title="Познавательные",RTG HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/210/index.m3u8
-#EXTINF:-1 tvg-id="ohotnik_rybolov" tvg-name="Охотник и Рыболов HD" tvg-logo="" group-title="Познавательные",Охотник и Рыболов HD
+#EXTINF:-1 group-title="Познавательные",Охотник и Рыболов HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/917/index.m3u8
-#EXTINF:-1 tvg-id="foodtime" tvg-name="FoodTime HD" tvg-logo="" group-title="Познавательные",FoodTime HD
+#EXTINF:-1 group-title="Познавательные",FoodTime HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/918/index.m3u8
-#EXTINF:-1 tvg-id="food_network" tvg-name="Food Network HD" tvg-logo="" group-title="Познавательные",Food Network HD
+#EXTINF:-1 group-title="Познавательные",Food Network HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2419/index.m3u8
-#EXTINF:-1 tvg-id="zhivaya_priroda" tvg-name="Живая природа HD" tvg-logo="" group-title="Познавательные",Живая природа HD
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2074/index.m3u8
-#EXTINF:-1 tvg-id="moya_planeta" tvg-name="Моя Планета HD" tvg-logo="" group-title="Познавательные",Моя Планета HD
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2090/index.m3u8
-#EXTINF:-1 tvg-id="priklyucheniya" tvg-name="Приключения HD" tvg-logo="" group-title="Познавательные",Приключения HD
+#EXTINF:-1 group-title="Познавательные",Приключения HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/920/index.m3u8
-#EXTINF:-1 tvg-id="glazami_turista" tvg-name="Глазами Туриста HD" tvg-logo="" group-title="Познавательные",Глазами Туриста HD
+#EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2104/index.m3u8
-#EXTINF:-1 tvg-id="dikaya_ohota" tvg-name="Дикая охота HD" tvg-logo="" group-title="Познавательные",Дикая охота HD
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2004/index.m3u8
-#EXTINF:-1 tvg-id="dikaya_rybalka" tvg-name="Дикая рыбалка HD" tvg-logo="" group-title="Познавательные",Дикая рыбалка HD
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2005/index.m3u8
-#EXTINF:-1 tvg-id="dialogi_rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="" group-title="Познавательные",Диалоги о рыбалке
+#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2394/index.m3u8
-#EXTINF:-1 tvg-id="avto_plus" tvg-name="Авто Плюс" tvg-logo="" group-title="Познавательные",Авто Плюс
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/151/index.m3u8
-#EXTINF:-1 tvg-id="kukhnya" tvg-name="Кухня" tvg-logo="" group-title="Познавательные",Кухня
+#EXTINF:-1 group-title="Познавательные",Кухня
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/152/index.m3u8
-#EXTINF:-1 tvg-id="vremya" tvg-name="Время" tvg-logo="" group-title="Познавательные",Время
+#EXTINF:-1 group-title="Познавательные",Время
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/552/index.m3u8
-#EXTINF:-1 tvg-id="domashnie_zhivotnye" tvg-name="Домашние Животные" tvg-logo="" group-title="Познавательные",Домашние Животные
+#EXTINF:-1 group-title="Познавательные",Домашние Животные
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/158/index.m3u8
-#EXTINF:-1 tvg-id="tochka_otryva" tvg-name="Точка Отрыва" tvg-logo="" group-title="Познавательные",Точка Отрыва
+#EXTINF:-1 group-title="Познавательные",Точка Отрыва
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/159/index.m3u8
-#EXTINF:-1 tvg-id="viju_nature" tvg-name="Viju Nature" tvg-logo="" group-title="Познавательные",Viju Nature
+#EXTINF:-1 group-title="Познавательные",Viju Nature
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/161/index.m3u8
-#EXTINF:-1 tvg-id="viju_explore" tvg-name="Viju Explore" tvg-logo="" group-title="Познавательные",Viju Explore
+#EXTINF:-1 group-title="Познавательные",Viju Explore
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/163/index.m3u8
-#EXTINF:-1 tvg-id="zoopark" tvg-name="Zоопарк" tvg-logo="" group-title="Познавательные",Zоопарк
+#EXTINF:-1 group-title="Познавательные",Zоопарк
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/731/index.m3u8
 
-# Развлекательные
-#EXTINF:-1 tvg-id="sts_hd" tvg-name="СТС HD" tvg-logo="" group-title="Развлекательные",СТС HD
+#EXTINF:-1 group-title="Развлекательные",СТС HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6303/index.m3u8
-#EXTINF:-1 tvg-id="pyatnica" tvg-name="Пятница! HD" tvg-logo="" group-title="Развлекательные",Пятница! HD
+#EXTINF:-1 group-title="Развлекательные",Пятница! HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5031/index.m3u8
-#EXTINF:-1 tvg-id="2x2" tvg-name="2x2" tvg-logo="" group-title="Развлекательные",2x2
+#EXTINF:-1 group-title="Развлекательные",2x2
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/702/index.m3u8
-#EXTINF:-1 tvg-id="perec" tvg-name="Перец" tvg-logo="" group-title="Развлекательные",Перец
+#EXTINF:-1 group-title="Развлекательные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 tvg-id="klyuch" tvg-name="Ключ HD" tvg-logo="" group-title="Развлекательные",Ключ HD
+#EXTINF:-1 group-title="Развлекательные",Ключ HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20041/index.m3u8
-#EXTINF:-1 tvg-id="prodvizhenie" tvg-name="Продвижение" tvg-logo="" group-title="Развлекательные",Продвижение
+#EXTINF:-1 group-title="Развлекательные",Продвижение
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/851/index.m3u8
-#EXTINF:-1 tvg-id="domashniy" tvg-name="Домашний" tvg-logo="" group-title="Развлекательные",Домашний
+#EXTINF:-1 group-title="Развлекательные",Домашний
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/514/index.m3u8
-#EXTINF:-1 tvg-id="tv3_bel" tvg-name="ТВ3 Бел." tvg-logo="" group-title="Развлекательные",ТВ3 Бел.
+#EXTINF:-1 group-title="Развлекательные",ТВ3 Бел.
 http://86.57.209.210/TB-3/index.m3u8
-#EXTINF:-1 tvg-id="tv3" tvg-name="ТВ3" tvg-logo="" group-title="Развлекательные",ТВ3
+#EXTINF:-1 group-title="Развлекательные",ТВ3
 http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2024/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Суббота! HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15118/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2417/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6370/index.m3u8
 
-# Спортивные
-#EXTINF:-1 tvg-id="match_tv_fhd" tvg-name="Матч ТВ FHD" tvg-logo="" group-title="Спортивные",Матч ТВ FHD
+#EXTINF:-1 group-title="Спортивные",Матч ТВ FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2413/index.m3u8
-#EXTINF:-1 tvg-id="match_premier" tvg-name="Матч! Премьер FHD" tvg-logo="" group-title="Спортивные",Матч! Премьер FHD
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2414/index.m3u8
-#EXTINF:-1 tvg-id="match_futbol_1_hd" tvg-name="Матч! Футбол 1 HD" tvg-logo="" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/222/index.m3u8
-#EXTINF:-1 tvg-id="match_futbol_2" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="Спортивные",Матч! Футбол 2
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/530/index.m3u8
-#EXTINF:-1 tvg-id="match_futbol_3_fhd" tvg-name="Матч! Футбол 3 FHD" tvg-logo="" group-title="Спортивные",Матч! Футбол 3 FHD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2408/index.m3u8
-#EXTINF:-1 tvg-id="match_igra" tvg-name="Матч! Игра HD" tvg-logo="" group-title="Спортивные",Матч! Игра HD
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/225/index.m3u8
-#EXTINF:-1 tvg-id="match_arena" tvg-name="Матч! Арена HD" tvg-logo="" group-title="Спортивные",Матч! Арена HD
+#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/207/index.m3u8
-#EXTINF:-1 tvg-id="match_strana" tvg-name="Матч! Страна" tvg-logo="" group-title="Спортивные",Матч! Страна
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/107/index.m3u8
-#EXTINF:-1 tvg-id="start_triumph" tvg-name="Старт Триумф HD" tvg-logo="" group-title="Спортивные",Старт Триумф HD
+#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/16034/index.m3u8
-#EXTINF:-1 tvg-id="extreme_sports" tvg-name="Extreme Sports HD" tvg-logo="" group-title="Спортивные",Extreme Sports HD
+#EXTINF:-1 group-title="Спортивные",Extreme Sports HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20028/index.m3u8
-#EXTINF:-1 tvg-id="setanta_baltic" tvg-name="Setanta Baltic 1 FHD" tvg-logo="" group-title="Спортивные",Setanta Baltic 1 FHD
+#EXTINF:-1 group-title="Спортивные",Setanta Baltic 1 FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5069/index.m3u8
-#EXTINF:-1 tvg-id="setanta2" tvg-name="Setanta Sports 2 HD" tvg-logo="" group-title="Спортивные",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/270/index.m3u8
-#EXTINF:-1 tvg-id="khl_hd" tvg-name="KHL HD" tvg-logo="" group-title="Спортивные",KHL HD
+#EXTINF:-1 group-title="Спортивные",KHL HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/215/index.m3u8
-#EXTINF:-1 tvg-id="khl_prime" tvg-name="KHL Prime FHD" tvg-logo="" group-title="Спортивные",KHL Prime FHD
+#EXTINF:-1 group-title="Спортивные",KHL Prime FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2403/index.m3u8
-#EXTINF:-1 tvg-id="start_fhd" tvg-name="Старт FHD" tvg-logo="" group-title="Спортивные",Старт FHD
+#EXTINF:-1 group-title="Спортивные",Старт FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2154/index.m3u8
-#EXTINF:-1 tvg-id="hockey_tv" tvg-name="Хоккей ТВ HD" tvg-logo="" group-title="Спортивные",Хоккей ТВ HD
+#EXTINF:-1 group-title="Спортивные",Хоккей ТВ HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/10039/index.m3u8
-#EXTINF:-1 tvg-id="tv_sport" tvg-name="ТВ Спорт HD" tvg-logo="" group-title="Спортивные",ТВ Спорт HD
+#EXTINF:-1 group-title="Спортивные",ТВ Спорт HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/10057/index.m3u8
-#EXTINF:-1 tvg-id="box_tv" tvg-name="Бокс ТВ" tvg-logo="" group-title="Спортивные",Бокс ТВ
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19245/index.m3u8
-#EXTINF:-1 tvg-id="okko_sport" tvg-name="Окко Спорт HD" tvg-logo="" group-title="Спортивные",Окко Спорт HD
+#EXTINF:-1 group-title="Спортивные",Окко Спорт HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20138/index.m3u8
-#EXTINF:-1 tvg-id="okko_football" tvg-name="Окко Футбол HD" tvg-logo="" group-title="Спортивные",Окко Футбол HD
+#EXTINF:-1 group-title="Спортивные",Окко Футбол HD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6554/index.m3u8
 
-# Детские
-#EXTINF:-1 tvg-id="solntse" tvg-name="Солнце" tvg-logo="" group-title="Детские",Солнце
+#EXTINF:-1 group-title="Детские",Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Капитан Фантастика HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2098/index.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/921/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5055/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Карусель HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20012/index.m3u8
+#EXTINF:-1 group-title="Детские",Уникум HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/9191/index.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/543/index.m3u8
+#EXTINF:-1 group-title="Детские",JimJam
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/138/index.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/109/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2001/index.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/114/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/129/index.m3u8
+#EXTINF:-1 group-title="Детские",ТипТоп HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14007/index.m3u8
+#EXTINF:-1 group-title="Детские",Tiji TV
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/108/index.m3u8
+#EXTINF:-1 group-title="Детские",Baby Time
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20030/index.m3u8
+#EXTINF:-1 group-title="Детские",Лёва HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15098/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/223/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/143/index.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/727/index.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/737/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoonito
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/723/index.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2052/index.m3u8
 
-
+#EXTINF:-1 group-title="Новостные",Настоящее Время HD
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 group-title="Новостные",Дождь HD
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/1399200_576p.m3u8
+#EXTINF:-1 group-title="Новостные",Известия HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/18039/index.m3u8
+#EXTINF:-1 group-title="Новостные",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Новостные",Euronews СНГ
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/828/index.m3u8
+#EXTINF:-1 group-title="Новостные",Мир 24 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2107/index.m3u8
+#EXTINF:-1 group-title="Новостные",Москва 24
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/523/index.m3u8
+#EXTINF:-1 group-title="Новостные",РБК FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2404/index.m3u8
