@@ -167,16 +167,6 @@ http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/11005/index.m3u8
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/11006/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",CineMan Мелодрама
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/11008/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",CineMan Marvel
-http://ip1.orgip.net/688/video.m3u8?token=C0cc72be19
-#EXTINF:-1 group-title="Фильмовые",CineMan Комедия
-http://ip1.orgip.net/691/video.m3u8?token=C0cc72be19
-#EXTINF:-1 group-title="Фильмовые",CineMan Ужасы
-http://ip1.orgip.net/692/video.m3u8?token=C0cc72be19
-#EXTINF:-1 group-title="Фильмовые",CineMan Thriller
-http://ip1.orgip.net/686/video.m3u8?token=C0cc72be19
-#EXTINF:-1 group-title="Фильмовые",CineMan РуКино
-http://ip1.orgip.net/687/video.m3u8?token=C0cc72be19
 
 #EXTINF:-1 group-title="Познавательные",Discovery Channel
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/140/index.m3u8
@@ -380,3 +370,4 @@ http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2107/index.m3u8
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/523/index.m3u8
 #EXTINF:-1 group-title="Новостные",РБК FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2404/index.m3u8
+
