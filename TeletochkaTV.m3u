@@ -1,0 +1,349 @@
+#EXTM3U
+#EXTINF:-1 group-title="Общие",Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2402/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие",ТВ Центр
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал
+http://178.163.49.177:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Общие",ОТР
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/705/index.m3u8
+#EXTINF:-1 group-title="Общие",ОТР HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20018/index.m3u8
+#EXTINF:-1 group-title="Общие",Мир
+http://158.101.222.193:88/georgia_play.php?id=mir
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",360° HD
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 group-title="Общие",Звезда
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Звезда Плюс HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19230/index.m3u8
+#EXTINF:-1 group-title="Общие",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Фильмовые",Viasat Kino World HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/31448/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Любимое Кино HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20014/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",FX HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19216/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Новелла HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2002/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viasat Serial
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/17056/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",.sci-fi HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20020/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Scream HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20021/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Shot TV HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20022/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",О!Кино
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20023/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",NOW Series HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15102/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",FilmZone Plus HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20025/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",FX Life HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14003/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",FAN HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/16021/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Остросюжетное HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/904/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Премиальное FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2410/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Блокбастер HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2436/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Хит HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2438/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Наше Мужское HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2440/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Камеди HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2441/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju+ Serial HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2443/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Романтичное HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5053/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Душевное HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/914/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Любимое HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2106/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Дорама HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2131/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2097/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/229/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju+ Comedy HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/200/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju+ Megahit HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/201/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Epic Drama
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/1048/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",День Победы HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5054/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Победа HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5052/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2046/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Русское
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/101/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",.sci-fi
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/110/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Киномикс
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/509/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Киносемья
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/125/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Родное Кино
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/126/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Viju TV1000 Action
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/131/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинохит
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/516/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia 2
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/510/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Наше Новое Кино
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/517/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинокомедия
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/145/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Индийское Кино
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/146/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Русский иллюзион
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/547/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинеко
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/550/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Дом Кино
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/154/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Amedia Hit
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/556/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Шокирующее HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6299/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Страшное HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/7247/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинопремьера HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/224/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",viju+ Premiere
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",viju+ Megahit
+http://2.57.217.85:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",viju+ Comedy
+http://2.57.217.85:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5082/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6392/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Русский роман HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/9041/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Discovery Channel
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/140/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2085/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2010/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14001/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/218/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2415/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/4003/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TERRA HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2416/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/232/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Channel HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/233/index.m3u8
+#EXTINF:-1 group-title="Познавательные",History HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/231/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju History HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/203/index.m3u8
+#EXTINF:-1 group-title="Познавательные",History 2 FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2033/index.m3u8
+#EXTINF:-1 group-title="Познавательные",RTG HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/210/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Охотник и Рыболов HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/917/index.m3u8
+#EXTINF:-1 group-title="Познавательные",FoodTime HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/918/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Food Network HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2419/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2074/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2090/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/920/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2104/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая охота HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2004/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2005/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2394/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Авто Плюс
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/151/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/152/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Время
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/552/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Домашние Животные
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/158/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Точка Отрыва
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/159/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Nature
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/161/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viju Explore
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/163/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Zоопарк
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/731/index.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",СТС HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6303/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница! HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5031/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/702/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Развлекательные",Ключ HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20041/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Продвижение
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/851/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/514/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3 Бел.
+http://86.57.209.210/TB-3/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2024/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Суббота! HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15118/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2417/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6370/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Матч ТВ FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2413/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2414/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/222/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/530/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2408/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Игра HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/225/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/207/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/107/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/16034/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Extreme Sports HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20028/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Baltic 1 FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5069/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/270/index.m3u8
+#EXTINF:-1 group-title="Спортивные",KHL HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/215/index.m3u8
+#EXTINF:-1 group-title="Спортивные",KHL Prime FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2403/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2154/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Хоккей ТВ HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/10039/index.m3u8
+#EXTINF:-1 group-title="Спортивные",ТВ Спорт HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/10057/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/19245/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Окко Спорт HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20138/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Окко Футбол HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/6554/index.m3u8
+
+#EXTINF:-1 group-title="Детские",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Капитан Фантастика HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2098/index.m3u8
+#EXTINF:-1 group-title="Детские",Мульт HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/921/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/5055/index.m3u8
+#EXTINF:-1 group-title="Детские",Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Карусель HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20012/index.m3u8
+#EXTINF:-1 group-title="Детские",Уникум HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/9191/index.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/543/index.m3u8
+#EXTINF:-1 group-title="Детские",JimJam
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/138/index.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/109/index.m3u8
+#EXTINF:-1 group-title="Детские",СТС Kids HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2001/index.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/114/index.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/129/index.m3u8
+#EXTINF:-1 group-title="Детские",ТипТоп HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/14007/index.m3u8
+#EXTINF:-1 group-title="Детские",Tiji TV
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/108/index.m3u8
+#EXTINF:-1 group-title="Детские",Baby Time
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/20030/index.m3u8
+#EXTINF:-1 group-title="Детские",Лёва HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/15098/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/223/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/143/index.m3u8
+#EXTINF:-1 group-title="Детские",О!
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/727/index.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/737/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoonito
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/723/index.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2052/index.m3u8
+
+#EXTINF:-1 group-title="Новостные",Настоящее Время HD
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 group-title="Новостные",Дождь HD
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/1399200_576p.m3u8
+#EXTINF:-1 group-title="Новостные",Известия HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/18039/index.m3u8
+#EXTINF:-1 group-title="Новостные",ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Новостные",Euronews СНГ
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/828/index.m3u8
+#EXTINF:-1 group-title="Новостные",Мир 24 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2107/index.m3u8
+#EXTINF:-1 group-title="Новостные",Москва 24
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/523/index.m3u8
+#EXTINF:-1 group-title="Новостные",РБК FHD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2404/index.m3u8
