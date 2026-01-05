@@ -735,3 +735,199 @@ http://8.team.ga:80/ch3314/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWTsUt
 #EXTGRP:Кино - резерв
 http://8.team.ga:80/ch1116/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuafhQITCyzrqHyII9qZRFyyY2s86dKt9vpSpyiDeNsUs
 
+#EXTINF:0 tvg-name="Eurosport 1 HD" tvg-rec="3", Eurosport 1 HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch039/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUzZ0Ek_SU4JO6vauEIAspY.
+#EXTINF:0 tvg-name="Eurosport 2 HD" tvg-rec="3", Eurosport 2 HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch071/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufWxc2yrKuyRlIWFBSceftw.
+#EXTINF:0 tvg-name="Матч! SD" tvg-rec="3", Матч! SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2126/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubon93VuyV_SPRdsreUhjKrtH84mNYj3IqLifJQlrqWu
+#EXTINF:0 tvg-name="Матч! Футбол 1 SD" tvg-rec="3", Матч! Футбол 1 SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2123/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudLlxl5vyF6mJuK1UC1cjPhY9RZHJn27bmFVI2sjd8vO
+#EXTINF:0 tvg-name="Матч! Футбол 2 SD" tvg-rec="3", Матч! Футбол 2 SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2124/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQxE5hE5GBaR8Nt4VZ-qb7TGpvQ2DOoOnx3iWDiF-XIY
+#EXTINF:0 tvg-name="Матч! Футбол 3 SD" tvg-rec="3", Матч! Футбол 3 SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2125/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuU4ZPNYGVy1ZaQjYRWz02OSjykI2rP67OOEHK_aZCkUy
+#EXTINF:0 tvg-name="Матч! Премьер SD" tvg-rec="3", Матч! Премьер SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2005/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuZx-jKk-vmvzqFKkoP003EbdKr_lfzTdzYdQ0mtEx6wm
+#EXTINF:0 tvg-name="Матч! Игра SD" tvg-rec="3", Матч! Игра SD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3304/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRAQywXsTrPmKRCSxWHkWp37NTk76SsWBamrnOpUa5s3
+#EXTINF:0 tvg-name="Матч! Планета" tvg-rec="3", Матч! Планета
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch688/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuU_i0Mt2V6Sj872jwt41GS8.
+#EXTINF:0 tvg-name="Мяч HD" tvg-rec="3", Мяч HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch708/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucuQRItVu6MDn7EX5zvUhHY.
+#EXTINF:0 tvg-name="ТВ Спорт HD" tvg-rec="3", ТВ Спорт HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch447/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXRNo9nWrFlE1ugmsnC-KK8.
+#EXTINF:0 tvg-name="Хоккей ТВ HD" tvg-rec="3", Хоккей ТВ HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch663/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQXykRZRdGuHClSKxZRjutU.
+#EXTINF:0 tvg-name="Конный Мир" tvg-rec="3", Конный Мир
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch133/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuesbwksNBmb2bmpHuApAqe0.
+#EXTINF:0 tvg-name="UDAR TV HD" tvg-rec="3", UDAR TV HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch549/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuZDj0kGG8JZ7y7rlcDsDCVY.
+#EXTINF:0 tvg-name="Живи!" tvg-rec="0", Живи!
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch530/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWYE929TR-6lkugE1xNRQkg.
+#EXTINF:0 tvg-name="Живи Активно HD" tvg-rec="0", Живи Активно HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1880/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSx63XlgFRGnAlC1FuWmDRKN0QeW7hHfxAC4Jogk0Qt6
+#EXTINF:0 tvg-name="Старт HD" tvg-rec="3", Старт HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch662/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucJCZZCsIAGdNeHXW9PhGuo.
+#EXTINF:0 tvg-name="Старт Триумф HD" tvg-rec="3", Старт Триумф HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2502/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRvuJQcY0W_0FAR-IIZvKvDsAcIWusWXGX5qXr-f5g9i
+#EXTINF:0 tvg-name="Box AutoTrend HD" tvg-rec="3", Box AutoTrend HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2810/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudPG93m1Yh6_N9m4JIUtgeNbYr9ffBG6v7n_978ncXD1
+#EXTINF:0 tvg-name="Box Be ON Edge HD" tvg-rec="3", Box Be ON Edge HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2282/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYPnhVS2kTQpN5Kk7vANaba5iz_x55icjgfYch7S-A0J
+#EXTINF:0 tvg-name="Box Be ON Edge 1 Live HD" tvg-rec="3", Box Be ON Edge 1 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2283/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudkv-_k3x0GyTikvLeV-MwsWwzg17NKxUi1b9BLrdkea
+#EXTINF:0 tvg-name="Box Be ON Edge 2 Live HD" tvg-rec="3", Box Be ON Edge 2 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2284/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudlgIvXtJp7kbqCQJIWt-CcbFkP8r2i5koUBLd_SKSnP
+#EXTINF:0 tvg-name="Box Be ON Edge Live 3 HD" tvg-rec="3", Box Be ON Edge Live 3 HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch711/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueKN2YHSFC50wzdoQAB3XpA.
+#EXTINF:0 tvg-name="Box Sport Cast 1 Live" tvg-rec="3", Box Sport Cast 1 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2336/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYw98gEwCU5Od3nbmGwwrBluqW6QXElodZ9OrMwe17nP
+#EXTINF:0 tvg-name="Box Sport Cast 2 Live" tvg-rec="3", Box Sport Cast 2 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2337/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuW1YZVLQxQVkcqqPEEpZPZv6iecwgYT4WNlCkARS6S2P
+#EXTINF:0 tvg-name="Box Sport Cast 3 Live" tvg-rec="3", Box Sport Cast 3 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2338/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuc15myX2hqy3WZ_0e5cpptgZO57Dvy0VqQW0vdSOIyWf
+#EXTINF:0 tvg-name="Box Sport Cast 4 Live" tvg-rec="3", Box Sport Cast 4 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2339/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufWItTH0ksBgyXqAJNeslGoWQk2kj7hu2ikZA906dQqc
+#EXTINF:0 tvg-name="Box Sport Cast 5 Live" tvg-rec="3", Box Sport Cast 5 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2340/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSyVDzhaA0lMxZV4qmNUvkoDUZBJAWrvVRPN8enOO4Wc
+#EXTINF:0 tvg-name="Box Sport Cast 6 Live" tvg-rec="3", Box Sport Cast 6 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2465/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudSxgr57TLvmpxV7X0UTu-lcUU8vaBd1w1K235Tn_O2D
+#EXTINF:0 tvg-name="Box Sport Cast 7 Live" tvg-rec="3", Box Sport Cast 7 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2466/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYb39O-9Sj7Pcf5OE7DqjuBXJOaSmVI_uBZNvm2BnzW1
+#EXTINF:0 tvg-name="Box Sport Cast 8 Live" tvg-rec="0", Box Sport Cast 8 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1819/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRVheCNifm1Ygt7pgp7eh8YUspxled5P575ZdS7xNl4c
+#EXTINF:0 tvg-name="Box Sport Cast 9 Live" tvg-rec="0", Box Sport Cast 9 Live
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch700/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuenPlSIPwiZQeMsdzYc8nqY.
+#EXTINF:0 tvg-name="Box Sport Cast HD" tvg-rec="3", Box Sport Cast HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2467/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUeYKon-2ER1qdNoRlEi1WCBUSTbDrYmdwLqjVXEcuMX
+#EXTINF:0 tvg-name="BOX Sport 1 Live HD" tvg-rec="0", BOX Sport 1 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3162/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYJ4rQPRG0_LmPKBRgJnAyAAlLIT5u-piKEpx_6R0Le6
+#EXTINF:0 tvg-name="BOX Sport 2 Live HD" tvg-rec="0", BOX Sport 2 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3163/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeub7s9rQ1S4oIkVtAxlDEPk1SuKn7a2W0Vjw-V9t4JV3T
+#EXTINF:0 tvg-name="BOX Sport 3 Live HD" tvg-rec="0", BOX Sport 3 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3164/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSVnM5hFbaWdk-R-L78D_HOuNeFF2jaY0ARE8vhfN__t
+#EXTINF:0 tvg-name="BOX Sport 4 Live HD" tvg-rec="0", BOX Sport 4 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3165/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVugtJt5aXVnO9qHIfBimD1FAyxJzzZo-ec5_8762Usj
+#EXTINF:0 tvg-name="BOX Sport 5 Live HD" tvg-rec="0", BOX Sport 5 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3166/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuW-l7a9IZVdRKxWkKYvkWBiOS5mNG9dWeoc-PImKYrG4
+#EXTINF:0 tvg-name="BOX Sport 6 Live HD" tvg-rec="0", BOX Sport 6 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3167/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucGXeyVNl4wGw-m9BLDvnBvLdrTSpCfY_x1-_mTrE6C1
+#EXTINF:0 tvg-name="BOX Sport 7 Live HD" tvg-rec="0", BOX Sport 7 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3168/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSyX36Xs9T7LQIMRhrSjFvfHg8LEzT6KlYRtULCJmfE6
+#EXTINF:0 tvg-name="BOX Sport 8 Live HD" tvg-rec="0", BOX Sport 8 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3169/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV6nGEky6Lt68X5Ni4S-sMxZOA3zcV8IJSDoYVi-T3Z2
+#EXTINF:0 tvg-name="BOX Sport 9 Live HD" tvg-rec="0", BOX Sport 9 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3170/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudi2G38bnALLQGWRXA2D_2LaZu27Js_qJlHVUkiZNEDP
+#EXTINF:0 tvg-name="BOX Sport 10 Live 4K" tvg-rec="0", BOX Sport 10 Live 4K
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3171/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuW72myhbebrmlZsQ3iCi_dF0ouvG4ZSRAd5ki741xxee
+#EXTINF:0 tvg-name="BOX Sport 11 Live 4K" tvg-rec="0", BOX Sport 11 Live 4K
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3289/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYHZPXmEZZ4f9uQ9Qss04G-YNpjnSw0vpyBMg_Kr6Trw
+#EXTINF:0 tvg-name="BOX Sport 12 Live HD" tvg-rec="0", BOX Sport 12 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3469/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVTr9JVuV30dXphFtgKVLiUanjt24oY7bVWnkxHMm9S4
+#EXTINF:0 tvg-name="BOX Sport 13 Live HD" tvg-rec="0", BOX Sport 13 Live HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3470/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUDlrjDTsdFvN13NppOePvuJRV_CQ4uqW-nlFXtP_Q_E
+#EXTINF:0 tvg-name="Liberty Автогир FHD" tvg-rec="3", Liberty Автогир FHD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1768/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXMX4pi36tRxJs0uJaG11fXNqCDSyPsQNOMqQ7da6eTb
+#EXTINF:0 tvg-name="Clarity4k Единоборства" tvg-rec="3", Clarity4k Единоборства
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1550/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQ3srkHkwS1onS948taS0CnBuVJGNzO9f5_DI7EeHOf6
+#EXTINF:0 tvg-name="Oasis WWE In English" tvg-rec="0", Oasis WWE In English
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2695/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWunoFvLxAungAodWOpvopeJBiDGjGrIrSxAFVe6H2KQ
+#EXTINF:0 tvg-name="Oasis Фитнес" tvg-rec="0", Oasis Фитнес
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2665/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubGCzcTuZqKe4plzuhUqt0Y2pNuxcio23WvsibyMFKiB
+#EXTINF:0 tvg-name="CineMan Фитнес" tvg-rec="0", CineMan Фитнес
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2923/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYxXhcg6t8h5Qv60uePBux7DL9icV0-z1dAT0Y6AXpU0
+#EXTINF:0 tvg-name="Velilla TV Legendary Matches HD" tvg-rec="0", Velilla TV Legendary Matches HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2036/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucq6Map8-jMTXGpL2aTGU-AoUL8xtCFlZRA8p2Jqajz_
+#EXTINF:0 tvg-name="Velilla TV EuroCup 1984" tvg-rec="0", Velilla TV EuroCup 1984
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3155/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuR5RCgg86JvGNZwzSlf1sD_8DMxcHLObel6USDMf9crz
+#EXTINF:0 tvg-name="Velilla TV EuroCup 1988" tvg-rec="0", Velilla TV EuroCup 1988
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3156/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudqjKd_XGE6h2Q6EtNvK9h-PB6049ovtkUit96BCH9xW
+#EXTINF:0 tvg-name="Velilla TV EuroCup 1992" tvg-rec="0", Velilla TV EuroCup 1992
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1088/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSF25X2Xjx9ceiotZ486BpXnvPn4fS-YLwrpXpXOVvlB
+#EXTINF:0 tvg-name="Velilla TV World Cup 1970" tvg-rec="0", Velilla TV World Cup 1970
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3112/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuX9lY7F7jiHqhYRAAhluHiyhzocoqUb0Lm6dxUEv_2sd
+#EXTINF:0 tvg-name="Velilla TV World Cup 1974" tvg-rec="0", Velilla TV World Cup 1974
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch828/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueTXc-SfJQLNJi1v3ZXtgDA.
+#EXTINF:0 tvg-name="Velilla TV World Cup 1978" tvg-rec="0", Velilla TV World Cup 1978
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch2116/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudS0l-L-LdlB2jRLj88PcKDYZW6K_wIgFkk2k6DfPnqG
+#EXTINF:0 tvg-name="Velilla TV World Cup 1994" tvg-rec="0", Velilla TV World Cup 1994
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3157/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYUUVk28sKXTLRQ_fZVcRxK0-3-kVYaUtY6WcHbG9QjP
+#EXTINF:0 tvg-name="Velilla TV World Cup 1998" tvg-rec="0", Velilla TV World Cup 1998
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3297/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUM5dQvCJ4tRFQYYjolyPnTahcUFT9SIPAcv8tJYF5aG
+#EXTINF:0 tvg-name="Velilla TV World Cup 2006" tvg-rec="0", Velilla TV World Cup 2006
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3158/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRvU7kngN1gtwT5XnV5APGvBj_fILRVF8lEJJF4Blo6D
+#EXTINF:0 tvg-name="Velilla TV World Cup 2010" tvg-rec="0", Velilla TV World Cup 2010
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3159/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudVZzoyPmPazuX32dBOFjoecXnQpGFsC60zeARa-g3Ez
+#EXTINF:0 tvg-name="Velilla TV World Cup 2014" tvg-rec="0", Velilla TV World Cup 2014
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3160/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuaDtfePQAbhKAf-jSSmWyqZ5tEonS0ZuYpxx3-q3tXCJ
+#EXTINF:0 tvg-name="Velilla TV World Cup 2018" tvg-rec="0", Velilla TV World Cup 2018
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch3161/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuR6Jcy7TJ1D_wTeg0TGCUfu8e1cfILGXis6GzkhD8ILw
+#EXTINF:0 tvg-name="Velilla TV World Cup 2022 HD" tvg-rec="0", Velilla TV World Cup 2022 HD
+#EXTGRP:Спорт - резерв
+http://8.team.ga:80/ch1084/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXaLt_KBpbFKTyEKk071UQ99tYyFR_sb3yJ8YjR-v7CN
+
