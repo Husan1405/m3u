@@ -371,3 +371,367 @@ http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/523/index.m3u8
 #EXTINF:-1 group-title="Новостные",РБК FHD
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/2404/index.m3u8
 
+#EXTINF:0 tvg-name="Киносемья HD" tvg-rec="6", Киносемья HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch008/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSuSvgW-enzUFlvFugjJEIs.
+#EXTINF:0 tvg-name="Кинохит HD" tvg-rec="6", Кинохит HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch009/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuZdimPdQ5dbXI-VnHaoauW8.
+#EXTINF:0 tvg-name="Киносвидание HD" tvg-rec="6", Киносвидание HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch010/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUZ97IAwcMg41KxnBgn7Fuk.
+#EXTINF:0 tvg-name="Наше новое кино HD" tvg-rec="6", Наше новое кино HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch015/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuf_m2bIVc3cDx23frSnnuPE.
+#EXTINF:0 tvg-name="Киномикс HD" tvg-rec="6", Киномикс HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch079/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufaLOQEkIQdcAB6Ar2IDJpQ.
+#EXTINF:0 tvg-name="Кинопремьера HD" tvg-rec="6", Кинопремьера HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch054/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQxp1651arm3VhApxOLJ8wU.
+#EXTINF:0 tvg-name="Киносерия HD" tvg-rec="6", Киносерия HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch668/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubotMc36mSpeSyFLWz9VBfE.
+#EXTINF:0 tvg-name="Кинокомедия HD" tvg-rec="6", Кинокомедия HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch460/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSd73MkTeJX3MTRADYn44l4.
+#EXTINF:0 tvg-name="Киноужас HD" tvg-rec="6", Киноужас HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch652/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWILIVfRVW69bnkoO7Jim1o.
+#EXTINF:0 tvg-name="Мужское кино HD" tvg-rec="6", Мужское кино HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch112/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXnKSyxPjg_T7LkOGZNZy4A.
+#EXTINF:0 tvg-name="Родное кино" tvg-rec="6", Родное кино
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch116/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuX6VEVChoBFm-jHH5l9kWS0.
+#EXTINF:0 tvg-name="Индийское кино" tvg-rec="6", Индийское кино
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch461/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuY_I50nEvjPKKLdBPrgbmYM.
+#EXTINF:0 tvg-name="Start World HD" tvg-rec="6", Start World HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch495/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuayueoyvHKjq0UNXlhbHBSk.
+#EXTINF:0 tvg-name="Start Air HD" tvg-rec="6", Start Air HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch506/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWwzqTR5lvTIJEOB9uLK3r8.
+#EXTINF:0 tvg-name="Viasat Kino World HD" tvg-rec="6", Viasat Kino World HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch651/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueVmODlC5n6c67iLU0kkaIY.
+#EXTINF:0 tvg-name="Viasat Kino Action HD" tvg-rec="6", Viasat Kino Action HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3079/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufZ-F51IijkCPhHbGBBeuTQaoyejAl__55HIneFaCUlb
+#EXTINF:0 tvg-name="Viasat Kino Comedy HD" tvg-rec="6", Viasat Kino Comedy HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3080/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuTANu2cDVoCjZUrBHz2-6wVrsi82J_g2-qDqpTCrurUo
+#EXTINF:0 tvg-name="Viasat Kino Megahit HD" tvg-rec="6", Viasat Kino Megahit HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3082/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVJC51WgzTM1JnXceT7KLMgt5L6z83LcNOvfQxYPM69U
+#EXTINF:0 tvg-name="Viasat Kino HD" tvg-rec="6", Viasat Kino HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3081/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRxpUMa-2buEoTSUi7oofjarpTjCO1Klr5pin-31e_Lj
+#EXTINF:0 tvg-name="Viju TV 1000 HD" tvg-rec="6", Viju TV 1000 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch017/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUJ3vD0hPqiCyfh7xBGndSE.
+#EXTINF:0 tvg-name="Viju TV 1000 Action HD" tvg-rec="6", Viju TV 1000 Action HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch018/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUgQklXKjj7OBRe9C3_z2iE.
+#EXTINF:0 tvg-name="Viju TV 1000 Русское HD" tvg-rec="6", Viju TV 1000 Русское HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch013/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueiDaSmzNur_XJ9xi1XVwpQ.
+#EXTINF:0 tvg-name="Viju TV1000 Romantica HD" tvg-rec="6", Viju TV1000 Romantica HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3074/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuaAahdPNShkifePz_2F2xbIY1TH3gNwObQTsQZiaazTx
+#EXTINF:0 tvg-name="Viju TV1000 Новелла HD" tvg-rec="6", Viju TV1000 Новелла HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3075/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubVuh9UjhVt_b-w4JT5py5p52wY75vQ538_PXwYGN5pu
+#EXTINF:0 tvg-name="Viju+ Comedy HD" tvg-rec="6", Viju+ Comedy HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch058/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueBt3HL2jQrSacgUiYBh_qo.
+#EXTINF:0 tvg-name="Viju+ Premiere HD" tvg-rec="6", Viju+ Premiere HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch060/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuc5x-7OzVKDbIn7czZY8Lbk.
+#EXTINF:0 tvg-name="Viju+ Megahit HD" tvg-rec="6", Viju+ Megahit HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch059/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuaJCtrCvPmrjxeX5mmMBjEs.
+#EXTINF:0 tvg-name="Viju+ Serial HD" tvg-rec="6", Viju+ Serial HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch701/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUDYF4TWxJ_u5W1wkMelwRE.
+#EXTINF:0 tvg-name="Amedia Hit HD" tvg-rec="6", Amedia Hit HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch032/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuW1P2EuoO2chS3NcOJlrN08.
+#EXTINF:0 tvg-name="Amedia 1 HD" tvg-rec="6", Amedia 1 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch421/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRvmNqqn-V3_R7YIxFvgd4c.
+#EXTINF:0 tvg-name="Amedia 2 HD" tvg-rec="6", Amedia 2 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch515/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuScEpaJApqbNGdcJGkkj6tk.
+#EXTINF:0 tvg-name="Amedia Premium HD" tvg-rec="6", Amedia Premium HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch065/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufl6QuwD0hv6Fy6zY1I4ThA.
+#EXTINF:0 tvg-name="Киноджем 1 HD" tvg-rec="6", Киноджем 1 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch542/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubMr3_UojZGr29VLc5LjuJo.
+#EXTINF:0 tvg-name="Киноджем 2 HD" tvg-rec="6", Киноджем 2 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch521/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQiQrWma4E9pck40EzjnPII.
+#EXTINF:0 tvg-name="НСТ" tvg-rec="6", НСТ
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch117/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuU6yukInt3OjqgtJ5k8cNkI.
+#EXTINF:0 tvg-name="Арсенал HD" tvg-rec="6", Арсенал HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch614/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXzQXDHAtxlc5hO4cxXE9WU.
+#EXTINF:0 tvg-name="Мосфильм. Золотая коллекция HD" tvg-rec="6", Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch336/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRTkArjQ1g8gwuqioapMxEs.
+#EXTINF:0 tvg-name="Кино ТВ HD" tvg-rec="6", Кино ТВ HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch077/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXv-737z6x372w8Q-saEI5Y.
+#EXTINF:0 tvg-name="Остросюжетное HD" tvg-rec="6", Остросюжетное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch072/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufXE-fjj3TpyY8aUEi3XjIA.
+#EXTINF:0 tvg-name="Дом Кино" tvg-rec="6", Дом Кино
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch078/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQ8QW_GeD5aerE1oIsgumDc.
+#EXTINF:0 tvg-name="Дом Кино Премиум HD" tvg-rec="6", Дом Кино Премиум HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch080/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuTBoWVmS_MxbPPh--J0Q7gw.
+#EXTINF:0 tvg-name="ЕвроКино HD" tvg-rec="6", ЕвроКино HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch033/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQzLJ3tdGd67Sye3-vhzxMI.
+#EXTINF:0 tvg-name="ТВ3 HD" tvg-rec="6", ТВ3 HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch024/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuaTRpd_q1Enq0UE0HoepaTs.
+#EXTINF:0 tvg-name="ТВ 3 +2" tvg-rec="0", ТВ 3 +2
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch409/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucy0vW-mssSqajXml5Rv1ts.
+#EXTINF:0 tvg-name="ТВ 3 +4" tvg-rec="0", ТВ 3 +4
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch410/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubR3-AMPeCEYzLzuNBlDT9g.
+#EXTINF:0 tvg-name="ТВ 3 +6" tvg-rec="0", ТВ 3 +6
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch411/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYpxJIrY7SpbP9l3LCVs0hk.
+#EXTINF:0 tvg-name="НТВ Сериал" tvg-rec="6", НТВ Сериал
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch620/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXgIryS1IGB1ZEn7gBKjGio.
+#EXTINF:0 tvg-name="НТВ Хит HD" tvg-rec="6", НТВ Хит HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch568/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuX9w5BOVTxmNmnN8mxJMYbA.
+#EXTINF:0 tvg-name="Fox HD" tvg-rec="6", Fox HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch103/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudsdrNAJ5LCJl8XNKB-43To.
+#EXTINF:0 tvg-name="Fox life HD" tvg-rec="6", Fox life HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch104/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRzdRjRaXaJ0o1tanBh0iBU.
+#EXTINF:0 tvg-name="Scream HD" tvg-rec="6", Scream HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch470/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSYRvR9Df3ZdK6LxD6S39e8.
+#EXTINF:0 tvg-name="Comedy Central" tvg-rec="6", Comedy Central
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch038/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubmzO5mgWQ0umUHsmSUsTJk.
+#EXTINF:0 tvg-name="Премиальное HD" tvg-rec="6", Премиальное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch084/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufKIGBpemKxt9Cw5C7RkGpI.
+#EXTINF:0 tvg-name="Романтичное HD" tvg-rec="6", Романтичное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch098/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeua7n99PV0pk3E19y-gwXtn4.
+#EXTINF:0 tvg-name="Иллюзион+ HD" tvg-rec="6", Иллюзион+ HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch114/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudMCmBIYjzKkTXk0Vt6bDuk.
+#EXTINF:0 tvg-name="Русский бестселлер" tvg-rec="6", Русский бестселлер
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch115/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuddhAw-5Xu0m7PObumfHpcQ.
+#EXTINF:0 tvg-name="Русский Иллюзион HD" tvg-rec="6", Русский Иллюзион HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch101/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV1KfPsxqKexnAgwjxgZtW8.
+#EXTINF:0 tvg-name="Русский роман HD" tvg-rec="6", Русский роман HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch132/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuesCcx_PEBeqztG_ZfErTpg.
+#EXTINF:0 tvg-name="Русский Детектив" tvg-rec="6", Русский Детектив
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch462/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRYL_0ipIDTbcIepzArknio.
+#EXTINF:0 tvg-name="Русская комедия" tvg-rec="6", Русская комедия
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch105/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuf63lKSYSocmY3uc0rVuQOM.
+#EXTINF:0 tvg-name="Любимое Кино HD" tvg-rec="6", Любимое Кино HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch463/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuS1IrANe_j4PrbaZ7HRLlY4.
+#EXTINF:0 tvg-name="Шокирующее HD" tvg-rec="6", Шокирующее HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch134/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYBcBIW3JmD6A6OPlQD17rs.
+#EXTINF:0 tvg-name="Комедийное HD" tvg-rec="6", Комедийное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch136/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucfm50BmKNqfaMRjsQzmmak.
+#EXTINF:0 tvg-name="Криминальное HD" tvg-rec="6", Криминальное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2127/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudGLf5wsDqOyk06ove4nvTjFxBC5sOC13eSNE1eyXQU9
+#EXTINF:0 tvg-name="Наше HD" tvg-rec="6", Наше HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch131/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV8dN80pRvEbqtiukGdFlTI.
+#EXTINF:0 tvg-name="Наше любимое HD" tvg-rec="6", Наше любимое HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch139/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuetoPA_tLlBJkmm4FBfr1XM.
+#EXTINF:0 tvg-name="Душевное HD" tvg-rec="6", Душевное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch140/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV6SvK_jxEP8wsIunHpnCIg.
+#EXTINF:0 tvg-name="Наш Кинопоказ HD" tvg-rec="6", Наш Кинопоказ HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch714/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUpeUdrEYeEQ5MA6W6--XmE.
+#EXTINF:0 tvg-name="Наше Мужское HD" tvg-rec="6", Наше Мужское HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch589/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWQ0Pq4Lew7tMFEQLKfasTQ.
+#EXTINF:0 tvg-name="Bollywood HD" tvg-rec="0", Bollywood HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch326/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYlDKbYguMODwWREZVc1yTA.
+#EXTINF:0 tvg-name="Plan B HD" tvg-rec="6", Plan B HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch459/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeufZ8vkAHOjuJbjxhFH3SSYI.
+#EXTINF:0 tvg-name=".Sci-Fi HD" tvg-rec="6", .Sci-Fi HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch464/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUstcHITKkW-_le4jbnL6g4.
+#EXTINF:0 tvg-name=".Black HD" tvg-rec="6", .Black HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch465/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYx4L3J9AtF2-20tNo0rSns.
+#EXTINF:0 tvg-name=".Red HD" tvg-rec="6", .Red HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch070/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuXKmTrLstYjvFWpVcWAOU4c.
+#EXTINF:0 tvg-name="КиноКульт HD" tvg-rec="6", КиноКульт HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3355/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSRfH2R64mi-3xbpXKxXyqd0siiVpNgj73bu2FEi6sRx
+#EXTINF:0 tvg-name="Кинопоказ HD" tvg-rec="6", Кинопоказ HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch466/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQ8AdsFlVXpZ5OUIJ6ASoA0.
+#EXTINF:0 tvg-name="Синема HD" tvg-rec="6", Синема HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch467/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueKhOw4XkuhyjiQWpPZ_UP4.
+#EXTINF:0 tvg-name="Страшное HD" tvg-rec="6", Страшное HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch468/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVCNDXYBL0N88aDmo8D-M3M.
+#EXTINF:0 tvg-name="TV XXI Век" tvg-rec="6", TV XXI Век
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch469/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRQER5jnDf8Huw2fTIjZQfc.
+#EXTINF:0 tvg-name="Окко TV HD" tvg-rec="6", Окко TV HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2855/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuTjTF6eAxoQS1AfhiKZZfu1uATh9_BukCJ0-YO6Oja05
+#EXTINF:0 tvg-name="Окко Герои HD" tvg-rec="6", Окко Герои HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch1509/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQ06amFpNe6j00AYSJY3Wde4bpy6DCCRRzUf0zWhIAJC
+#EXTINF:0 tvg-name="Fan HD" tvg-rec="6", Fan HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch501/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuZByVTCVXIefaeXnRv2Nd2U.
+#EXTINF:0 tvg-name="Феникс+ Кино" tvg-rec="6", Феникс+ Кино
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch505/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeue-97bWA3lV1I4U-9-GCVh4.
+#EXTINF:0 tvg-name="Ретро" tvg-rec="6", Ретро
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch508/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVjWo5EAPvtesxe9bt8rG1U.
+#EXTINF:0 tvg-name="Hollywood HD" tvg-rec="6", Hollywood HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch525/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWILhqbEdv2pGcWlC7hwIGE.
+#EXTINF:0 tvg-name="Hollywood" tvg-rec="6", Hollywood
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch1675/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuTZX8w83dQfQQHVP8pT9sYf-b_0m7NFi-O9FHRU4sXUg
+#EXTINF:0 tvg-name="Дорама HD" tvg-rec="6", Дорама HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch535/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueiI4i9-taL4puLT7Bw_qzo.
+#EXTINF:0 tvg-name="Еврокино HD" tvg-rec="6", Еврокино HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch537/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuer4HjuZMOeJPRIMFb5qJX4.
+#EXTINF:0 tvg-name="Тайна" tvg-rec="6", Тайна
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch543/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSKCo5z8Os7c8HWRd8qZDRY.
+#EXTINF:0 tvg-name="Star Family HD" tvg-rec="6", Star Family HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch585/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV9xS7FxpOk8JLoUSvqSDkQ.
+#EXTINF:0 tvg-name="Индия HD" tvg-rec="6", Индия HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch560/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucefGK_XOq-pk-V8dh18F2k.
+#EXTINF:0 tvg-name="Болт HD" tvg-rec="6", Болт HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch604/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueASN-9LVoDy2QfaFjw9wvM.
+#EXTINF:0 tvg-name="Мир сериала HD" tvg-rec="6", Мир сериала HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch636/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYY-msgYQxKNrfVmQPtI4fM.
+#EXTINF:0 tvg-name="AMC HD" tvg-rec="6", AMC HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch623/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRY0omVOyWWLecbZGkqbaec.
+#EXTINF:0 tvg-name="Киноман" tvg-rec="6", Киноман
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch619/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuYcJyyNDXxJ4WZWqLgNDxzE.
+#EXTINF:0 tvg-name="Epic Drama" tvg-rec="6", Epic Drama
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch681/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV4dPEiVpl1QsdWgMIJ7JMs.
+#EXTINF:0 tvg-name="FilmBox ArtHouse" tvg-rec="6", FilmBox ArtHouse
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch684/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUZ3uoQIco0WX6ulYVGEMHE.
+#EXTINF:0 tvg-name="Блокбастер HD" tvg-rec="6", Блокбастер HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch689/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeucpITfRitibgCZOvYb-5zms.
+#EXTINF:0 tvg-name="Про Любовь HD" tvg-rec="6", Про Любовь HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch690/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuV0caGzD0rE5GArmTSA4D_w.
+#EXTINF:0 tvg-name="Хит HD" tvg-rec="6", Хит HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch691/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeud2psaxRjMLaQ-5QQ2RO6X0.
+#EXTINF:0 tvg-name="Камеди HD" tvg-rec="6", Камеди HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch692/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuSSeHBYREQAkzvqFsKFCPno.
+#EXTINF:0 tvg-name="День Победы HD" tvg-rec="6", День Победы HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch703/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeud7k9WETj03MSwF0M9dCBSM.
+#EXTINF:0 tvg-name="Советская киноклассика HD" tvg-rec="6", Советская киноклассика HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3354/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuTPj4ixdOaNJnazVBOXX5L9Xzi1w0_KQEQ194A9SZmIc
+#EXTINF:0 tvg-name="Патриот" tvg-rec="6", Патриот
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2615/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuRdi-Ikoj30xB3csIhU9vorX-LmBZk0kZGWg5uMDYk0w
+#EXTINF:0 tvg-name="FlixSnip HD" tvg-rec="6", FlixSnip HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch709/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeueF13lKIVeI5WkRket4mRiI.
+#EXTINF:0 tvg-name="Shot" tvg-rec="6", Shot
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch712/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWVLRuPo8nKcA9XJa7XMGzs.
+#EXTINF:0 tvg-name="Trash HD" tvg-rec="6", Trash HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch730/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubaKaXAgJkYYfs8bxUstfto.
+#EXTINF:0 tvg-name="Kinoliving HD" tvg-rec="6", Kinoliving HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2069/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVXIUgo7oMQp43HCMa1enhKePArJXhO74tGvgo76EqsP
+#EXTINF:0 tvg-name="Сапфир HD" tvg-rec="6", Сапфир HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2077/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeubmtWOXFapV3HBnzZxDQvHP3j31ierOTVT-TFpIMMa-_
+#EXTINF:0 tvg-name="Кинеко HD" tvg-rec="6", Кинеко HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch2079/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuR5M57Rt9PovltH7Ag8My6oTHSGXIOZOuKK-JiUFjrEY
+#EXTINF:0 tvg-name="Dizi" tvg-rec="0", Dizi
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch1878/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudAsrIAdPHcgKdGGuD8NWHKSqY9XYYKPdtzRvi0RAlGG
+#EXTINF:0 tvg-name="KION Хит HD" tvg-rec="6", KION Хит HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch382/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuW7qbufkJL-FvlPy3vZNx5M.
+#EXTINF:0 tvg-name="VHS-ка HD" tvg-rec="6", VHS-ка HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch383/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUhZjmRDSYFgN4gGP61zKdc.
+#EXTINF:0 tvg-name="4ever Drama HD" tvg-rec="6", 4ever Drama HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch384/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuUBnInOLYYwe2XqdLlFZghI.
+#EXTINF:0 tvg-name="4ever Theater HD" tvg-rec="6", 4ever Theater HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch385/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeudayFvzVmSlNEB8OL1a7yzI.
+#EXTINF:0 tvg-name="Suspense HD" tvg-rec="6", Suspense HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3310/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWTfxA-bkoCCC3f4RoGE1QjbRHtaMeSXqHYVYIQ6E_iO
+#EXTINF:0 tvg-name="Кино24" tvg-rec="6", Кино24
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3311/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWddKyeZCF-jOxtRSgPq71cCDJn8fTk-UpDvkuWu21g1
+#EXTINF:0 tvg-name="Лавстори HD" tvg-rec="6", Лавстори HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3312/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuQaKeJ9URw_62bdgNAT8OXkNBx4173M2X9ZJhcnhxERs
+#EXTINF:0 tvg-name="Sumiko HD" tvg-rec="6", Sumiko HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3313/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuVzRy_gz1kn0v1tl4uxXNMQy2yQiTS2QU-7jESUbJKZX
+#EXTINF:0 tvg-name="Silk Way Cinema HD" tvg-rec="6", Silk Way Cinema HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch3314/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuWTsUtJhPNAyWEOZYOmgim7QJ6xHiYMe-F3TxDxpwk_y
+#EXTINF:0 tvg-name="C More Hits HD" tvg-rec="0", C More Hits HD
+#EXTGRP:Кино - резерв
+http://8.team.ga:80/ch1116/mono.m3u8?token=rl_7237195.8UZMsLAX1bp6QZ1pINHeuafhQITCyzrqHyII9qZRFyyY2s86dKt9vpSpyiDeNsUs
+
