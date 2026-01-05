@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Первый канал" group-title="Общие","Первый канал"
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 tvg-name="Россия 1" group-title="Общие","Россия 1"
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Общие","Россия 1 HD"
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 tvg-name="НТВ" group-title="Общие","НТВ"
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-name="Мир" group-title="Общие","Мир"
+http://158.101.222.193:88/georgia_play.php?id=mir
+#EXTINF:-1 tvg-name="ОТР" group-title="Общие","ОТР"
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+
+#EXTINF:-1 tvg-name="КИНОПРЕМЬЕРА HD" group-title="Фильмовые","КИНОПРЕМЬЕРА HD"
+http://91.207.115.228:5000/c42
+#EXTINF:-1 tvg-name="Киноужас" group-title="Фильмовые","Киноужас"
+http://91.207.115.228:5000/c43
+#EXTINF:-1 tvg-name="Киносемья" group-title="Фильмовые","Киносемья"
+http://91.207.115.228:5000/c39
+#EXTINF:-1 tvg-name="КИНОСВИДАНИЕ sd" group-title="Фильмовые","КИНОСВИДАНИЕ sd"
+http://91.207.115.228:5000/c45
+#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО" group-title="Фильмовые","МУЖСКОЕ КИНО"
+http://91.207.115.228:5000/c40
+#EXTINF:-1 tvg-name="viju+ Comedy" group-title="Фильмовые","viju+ Comedy"
+http://2.57.217.85:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Megahit" group-title="Фильмовые","viju+ Megahit"
+http://2.57.217.85:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Premiere" group-title="Фильмовые","viju+ Premiere"
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-name="TV1000 Action" group-title="Фильмовые","TV1000 Action"
+http://91.207.115.228:5000/c49
+#EXTINF:-1 tvg-name="viju TV1000" group-title="Фильмовые","viju TV1000"
+http://91.207.115.228:5000/c48
+#EXTINF:-1 tvg-name="Иллюзион+ sd" group-title="Фильмовые","Иллюзион+ sd"
+http://91.207.115.228:5000/c170
+#EXTINF:-1 tvg-name="Мосфильм. Золотая Коллекция" group-title="Фильмовые","Мосфильм. Золотая Коллекция"
+http://91.207.115.228:5000/c29
+#EXTINF:-1 tvg-name="Дом кино" group-title="Фильмовые","Дом кино"
+http://91.207.115.228:5000/c30
+#EXTINF:-1 tvg-name="Русский Роман" group-title="Фильмовые","Русский Роман"
+http://91.207.115.228:5000/c32
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="Фильмовые","Кино ТВ"
+http://91.207.115.228:5000/c33
+#EXTINF:-1 tvg-name="Русский Бестселлер" group-title="Фильмовые","Русский Бестселлер"
+http://91.207.115.228:5000/c34
+#EXTINF:-1 tvg-name="Русский Детектив" group-title="Фильмовые","Русский Детектив"
+http://91.207.115.228:5000/c35
+#EXTINF:-1 tvg-name=".Black" group-title="Фильмовые",".Black"
+http://91.207.115.228:5000/c79
+#EXTINF:-1 tvg-name="Индийское Кино" group-title="Фильмовые","Индийское Кино"
+http://91.207.115.228:5000/c47
+#EXTINF:-1 tvg-name="Amedia Premium HD" group-title="Фильмовые","Amedia Premium HD"
+http://91.207.115.228:5000/c58
+#EXTINF:-1 tvg-name="Amedia 1" group-title="Фильмовые","Amedia 1"
+http://91.207.115.228:5000/c55
+#EXTINF:-1 tvg-name="Amedia 2" group-title="Фильмовые","Amedia 2"
+http://91.207.115.228:5000/c56
+#EXTINF:-1 tvg-name="AMEDIA HIT" group-title="Фильмовые","AMEDIA HIT"
+http://91.207.115.228:5000/c57
+#EXTINF:-1 tvg-name="Hollywood HD" group-title="Фильмовые","Hollywood HD"
+http://91.207.115.228:5000/c59
+#EXTINF:-1 tvg-name="Дом кино премиум" group-title="Фильмовые","Дом кино премиум"
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 tvg-name=".Sci-Fi" group-title="Фильмовые",".Sci-Fi"
+http://91.207.115.228:5000/c77
+
+#EXTINF:-1 tvg-name="Discovery Channel HD" group-title="Познавательные","Discovery Channel HD"
+http://91.207.115.228:5000/c146
+#EXTINF:-1 tvg-name="HD Life" group-title="Познавательные","HD Life"
+http://91.207.115.228:5000/c158
+#EXTINF:-1 tvg-name="Наука" group-title="Познавательные","Наука"
+http://91.207.115.228:5000/c83
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Познавательные","Animal Planet HD"
+http://91.207.115.228:5000/c147
+#EXTINF:-1 tvg-name="viju History" group-title="Познавательные","viju History"
+http://91.207.115.228:5000/c96
+
+#EXTINF:-1 tvg-name="СТС" group-title="Развлекательные","СТС"
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 tvg-name="2X2" group-title="Развлекательные","2X2"
+http://91.207.115.228:5000/c180
+#EXTINF:-1 tvg-name="Пятница!" group-title="Развлекательные","Пятница!"
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 tvg-name="Суббота!" group-title="Развлекательные","Суббота!"
+http://91.207.115.228:5000/c52
+#EXTINF:-1 tvg-name="Перец" group-title="Развлекательные","Перец"
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные","Домашний"
+http://178.163.49.177:4022/udp/234.0.0.191:2000
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Развлекательные","ТНТ HD"
+http://91.207.115.228:5000/c157
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Развлекательные","ТНТ4"
+http://91.207.115.228:5000/c142
+#EXTINF:-1 tvg-name="Ю" group-title="Развлекательные","Ю"
+http://91.207.115.228:5000/c50
+#EXTINF:-1 tvg-name="Рен ТВ" group-title="Развлекательные","Рен ТВ"
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-name="Ключ" group-title="Развлекательные","Ключ"
+http://hls127.freeott.top:8080/Kluch/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч" group-title="Спортивные","Матч"
+http://91.207.115.228:5000/c101
+#EXTINF:-1 tvg-name="Футбол" group-title="Спортивные","Футбол"
+http://91.207.115.228:5000/c102
+#EXTINF:-1 tvg-name="АРЕНА HD" group-title="Спортивные","АРЕНА HD"
+http://91.207.115.228:5000/c103
+#EXTINF:-1 tvg-name="ИГРА HD" group-title="Спортивные","ИГРА HD"
+http://91.207.115.228:5000/c104
+#EXTINF:-1 tvg-name="МАТЧ ПРЕМЬЕР" group-title="Спортивные","МАТЧ ПРЕМЬЕР"
+http://91.207.115.228:5000/c105
+#EXTINF:-1 tvg-name="СТРАНА HD" group-title="Спортивные","СТРАНА HD"
+http://91.207.115.228:5000/c106
+
+#EXTINF:-1 tvg-name="Карусель" group-title="Детские","Карусель"
+http://178.163.49.177:4022/udp/234.0.0.203:2000
+#EXTINF:-1 tvg-name="Солнце" group-title="Детские","Солнце"
+http://178.163.49.177:4022/udp/234.0.0.198:2000
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские","Cartoon Network"
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 tvg-name="Мульт" group-title="Детские","Мульт"
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 tvg-name="Ani" group-title="Детские","Ani"
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 tvg-name="Уникум" group-title="Детские","Уникум"
+http://91.207.115.228:5000/c65
+#EXTINF:-1 tvg-name="Мультиландия" group-title="Детские","Мультиландия"
+http://91.207.115.228:5000/c67
+#EXTINF:-1 tvg-name="О!" group-title="Детские","О!"
+http://91.207.115.228:5000/c68
+#EXTINF:-1 tvg-name="СТС Kids HD" group-title="Детские","СТС Kids HD"
+http://91.207.115.228:5000/c69
+#EXTINF:-1 tvg-name="Мама" group-title="Детские","Мама"
+http://91.207.115.228:5000/c70
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Детские","Da Vinci"
+http://91.207.115.228:5000/c72
+
+#EXTINF:-1 tvg-name="Россия 24" group-title="Новостные","Россия 24"
+http://tv.tuva.ru/rossia24/index.m3u8
+#EXTINF:-1 tvg-name="Известия" group-title="Новостные","Известия"
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-name="Соловьев ТВ" group-title="Новостные","Соловьев ТВ"
+http://91.207.115.228:5000/c27
+#EXTINF:-1 tvg-name="Москва 24" group-title="Новостные","Москва 24"
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 tvg-name="Настоящее время" group-title="Новостные","Настоящее время"
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
