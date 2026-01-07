@@ -1,6 +1,4 @@
 #EXTM3U
-
-# Общие
 #EXTINF:-1 group-title="Общие",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1
@@ -14,7 +12,6 @@ http://158.101.222.193:88/georgia_play.php?id=mir
 #EXTINF:-1 group-title="Общие",ОТВ
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 
-# Фильмы
 #EXTINF:-1 group-title="Фильмы",Кинопремьера HD
 http://tv.ttk.mx:9162
 #EXTINF:-1 group-title="Фильмы",Киноужас
@@ -63,14 +60,13 @@ http://tv.ttk.mx:9150
 http://tv.ttk.mx:9173
 #EXTINF:-1 group-title="Фильмы",Киносвидание
 http://tv.ttk.mx:9164
-#EXTINF:-1 group-title="Фильмы",Русский Роман (udp)
+#EXTINF:-1 group-title="Фильмы",Русский Роман
 http://178.163.49.177:4022/udp/234.0.0.224:2000
 #EXTINF:-1 group-title="Фильмы",Феникс Плюс Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Фильмы",Кинеко
 http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
 
-# Познавательные
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju Explore
@@ -102,7 +98,6 @@ http://tv.ttk.mx:9191
 #EXTINF:-1 group-title="Познавательные",Авто 24
 http://tv.ttk.mx:9031
 
-# Развлекательные
 #EXTINF:-1 group-title="Развлекательные",СТС
 http://tv.ttk.mx:9012
 #EXTINF:-1 group-title="Развлекательные",РЕН ТВ
@@ -136,7 +131,6 @@ http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",2x2
 http://tv.ttk.mx:9099
 
-# Спорт
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://catchup.videoline.ru/match/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Матч Премьер
@@ -154,7 +148,6 @@ http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорт",KHL
 http://176.118.197.101/KHL/index.m3u8
 
-# Детские
 #EXTINF:-1 group-title="Детские",Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Ani
@@ -170,7 +163,6 @@ http://176.118.197.125/Mama/index.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://tv.ttk.mx:9054
 
-# Новости
 #EXTINF:-1 group-title="Новости",Известия ТВ
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости",Настоящее время
