@@ -3,8 +3,6 @@
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 HD
-http://95.66.188.74/Rossia1HD/mono.m3u8
 #EXTINF:-1 group-title="Общие",НТВ
 http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Общие",Мир
@@ -171,3 +169,4 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://tv.ttk.mx:9006
 #EXTINF:-1 group-title="Новости",Соловьев LIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
