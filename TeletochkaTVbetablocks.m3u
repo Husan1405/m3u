@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.uspeh.sbs/21.xml" x-tvg-url="http://epg.uspeh.sbs/21-light.xml"
+#EXTINF:-1 tvg-id="TeletochkaTVinfo" tvg-name="TeletochkaTVinfo" tvg-logo="" group-title="Инфоканал",TeletochkaTVinfo
+https://github.com/Husan1405/m3u/raw/refs/heads/main/TeletochkaTVinfo.mp4
 #EXTINF:-1 CUID="116" number="2" tvg-id="iptvxone:pervy" tvg-name="iptvxone:pervy" arc-timeshift="504" arc-time="504" catchup="shift" catchup-days="21" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/1200px-1канал-5.svg (1).png" group-title="Информационные",Первый канала Европа
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTIwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8zMS4yMjIuMjA3LjEzMTo5MTU1LzgxMjAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzUiLCJhZnAiOiI4MTIwIiwiYXRzIjoiNTA0IiwibCI6IjkwODJjZTVhIiwicCI6IjkwODJjZTVhOTBjZjk5NzIiLCJjIjoiMTE2IiwidCI6Ijc4MGJiOTEwZjRhMTZhMjAyYjMzNWNlMzBmNjk5MTQ0IiwiZCI6IjEzOTMxMyIsInIiOiIxNDIwMzAiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMjAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 CUID="238" number="3" tvg-id="iptvxone:pervy-pl6" tvg-name="iptvxone:pervy-pl6" arc-timeshift="24" arc-time="24" catchup="shift" catchup-days="1" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/Perviy ORT.png" group-title="Информационные",Первый канал +6
@@ -2110,4 +2112,5 @@ http://nl.m3u.life:9025/MM_USSR_1941-1945_HD/index.m3u8?token=Happy_new_year2026
 http://nl.m3u.life:9025/MM_Walt_Disney_HD/index.m3u8?token=Happy_new_year2026
 #EXTINF:0 CUID="437" group-title="Кино-каналы - резерв",MM UFO HD
 http://nl.m3u.life:9025/MM_UFO_HD/index.m3u8?token=Happy_new_year2026
+
 
