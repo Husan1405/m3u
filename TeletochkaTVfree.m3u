@@ -2,171 +2,80 @@
 #EXTINF:-1 group-title="Общие",Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+https://tinyurl.com/45x3xrpm/chid416/mpegts
 #EXTINF:-1 group-title="Общие",НТВ
 http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=aG5ZWzY-dDHc3eg--erR6A&e=2069025305&scheme=https
 #EXTINF:-1 group-title="Общие",Мир
-http://158.101.222.193:88/georgia_play.php?id=mir
+http://net42.rafail1982.uz/Mir/index.m3u8
+#EXTINF:-1 group-title="Общие",МИР HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
 #EXTINF:-1 group-title="Общие",ОТВ
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-
+https://vd.obltv.ru/watch/air_hd.m3u8
 #EXTINF:-1 group-title="Фильмы",Кинопремьера HD
-http://tv.ttk.mx:9162
+https://tinyurl.com/roma-123/310/mpegts
 #EXTINF:-1 group-title="Фильмы",Киноужас
-http://tv.ttk.mx:9193
+https://tinyurl.com/roma-123/87/mpegts
 #EXTINF:-1 group-title="Фильмы",Киносемья
-http://tv.ttk.mx:9161
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Фильмы",Кино (sd)
-http://tv.ttk.mx:9164
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Мужское кино
-http://tv.ttk.mx:9165
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Фильмы",Иллюзион+ (sd)
-http://tv.ttk.mx:9028
+http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 group-title="Фильмы",Мосфильм. Золотая коллекция
-http://tv.ttk.mx:9169
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="Фильмы",Дом кино
-http://tv.ttk.mx:9079
+http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Русский роман
-http://tv.ttk.mx:9085
-#EXTINF:-1 group-title="Фильмы",Кино ТВ
-http://tv.ttk.mx:9113
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Русский бестселлер
-http://tv.ttk.mx:9043
-#EXTINF:-1 group-title="Фильмы",Русский детектив
-http://195.158.223.132:8008/Russkiy_Detektiv
+https://tinyurl.com/roma-123/569/mpegts
 #EXTINF:-1 group-title="Фильмы",Black
 http://176.118.197.125/Black/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Дом кино премиум
-http://tv.ttk.mx:9084
+http://84.54.128.52:9090/play/a001/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Sci‑Fi
 http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia 1
-http://tv.ttk.mx:9155
+http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Фильмы",Amedia 2 HD
-http://tv.ttk.mx:9156
+http://sc.id-tv.kz/A2_36_37.m3u8?bw942122931772
 #EXTINF:-1 group-title="Фильмы",НСТ
-http://tv.ttk.mx:9057
+http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Фильмы",Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
+http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="Фильмы",Bollywood HD
-http://176.118.197.101/Bollywood_HD/index.m3u8
+http://193.27.209.122/bollywood/index.m3u8
 #EXTINF:-1 group-title="Фильмы",VijuTV1000
-http://176.118.197.125/viju-TV1000/index.m3u8
+https://tinyurl.com/roma-123/536/mpegts
 #EXTINF:-1 group-title="Фильмы",Кинопоказ
-http://tv.ttk.mx:9150
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Фильмы",НТВ Хит
-http://tv.ttk.mx:9173
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы",Киносвидание
-http://tv.ttk.mx:9164
-#EXTINF:-1 group-title="Фильмы",Русский Роман
-http://178.163.49.177:4022/udp/234.0.0.224:2000
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 group-title="Фильмы",Феникс Плюс Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Фильмы",Кинеко
-http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
-
+https://tinyurl.com/roma-123/662/mpegts
 #EXTINF:-1 group-title="Познавательные",Viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
+https://tinyurl.com/roma-123/526/mpegts
 #EXTINF:-1 group-title="Познавательные",Viju Explore
-http://tv.ttk.mx:9184
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Познавательные",Viju Nature
-http://tv.ttk.mx:9186
-#EXTINF:-1 group-title="Познавательные",Nano TV HD
-http://194.143.148.28:8080/NanoTV/mpegts
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Познавательные",Т24
-http://tv.ttk.mx:9056
+http://158.101.222.193:88/georgia_play.php?id=24techno
 #EXTINF:-1 group-title="Познавательные",Galaxy
-http://tv.ttk.mx:9071
+http://176.118.197.125/Galaxy/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Домашние животные
-http://tv.ttk.mx:9035
-#EXTINF:-1 group-title="Познавательные",Поехали!
-http://tv.ttk.mx:9082
-#EXTINF:-1 group-title="Познавательные",Охота и рыбалка
-http://tv.ttk.mx:9034
-#EXTINF:-1 group-title="Познавательные",История
-http://tv.ttk.mx:9048
-#EXTINF:-1 group-title="Познавательные",Живая планета
-http://tv.ttk.mx:9047
-#EXTINF:-1 group-title="Познавательные",Моя планета HD
-http://tv.ttk.mx:9087
-#EXTINF:-1 group-title="Познавательные",Большая Азия
-http://tv.ttk.mx:9146
-#EXTINF:-1 group-title="Познавательные",Открытый мир
-http://tv.ttk.mx:9191
-#EXTINF:-1 group-title="Познавательные",Авто 24
-http://tv.ttk.mx:9031
-
-#EXTINF:-1 group-title="Развлекательные",СТС
-http://tv.ttk.mx:9012
-#EXTINF:-1 group-title="Развлекательные",РЕН ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ HD
-http://tv.ttk.mx:9128
-#EXTINF:-1 group-title="Развлекательные",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТВ3
-http://tv.ttk.mx:9014
-#EXTINF:-1 group-title="Развлекательные",Пятница
-http://tv.ttk.mx:9015
-#EXTINF:-1 group-title="Развлекательные",Суббота
-http://tv.ttk.mx:9105
-#EXTINF:-1 group-title="Развлекательные",Че
-http://tv.ttk.mx:9141
-#EXTINF:-1 group-title="Развлекательные",Звезда плюс
-http://tv.ttk.mx:9192
-#EXTINF:-1 group-title="Развлекательные",звезда
-http://tv.ttk.mx:9016
-#EXTINF:-1 group-title="Развлекательные",Домашний
-http://tv.ttk.mx:9013
-#EXTINF:-1 group-title="Развлекательные",Ключ
-http://hls127.freeott.top:8080/Kluch/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Телекафе
-http://176.118.197.101/Telekafe/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",2x2
-http://tv.ttk.mx:9099
-
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://catchup.videoline.ru/match/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Матч Премьер
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт",Спорт Футбол 1
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="Спорт",Спорт Футбол 2
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="Спорт",Спорт Футбол 3
-http://tv.ttk.mx:9112
-#EXTINF:-1 group-title="Спорт",Футбол
-http://tv.ttk.mx:9065
-#EXTINF:-1 group-title="Спорт",KHL
-http://176.118.197.101/KHL/index.m3u8
-
-#EXTINF:-1 group-title="Детские",Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детские",Ani
-http://176.118.197.125/Ani/index.m3u8
-#EXTINF:-1 group-title="Детские",Gulli Girl
-http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:-1 group-title="Детские",JimJam
-http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:-1 group-title="Детские",Карусель
-http://176.118.197.125/Karusel/index.m3u8
-#EXTINF:-1 group-title="Детские",Мама
-http://176.118.197.125/Mama/index.m3u8
-#EXTINF:-1 group-title="Детские",Мульт
-http://tv.ttk.mx:9054
-
-#EXTINF:-1 group-title="Новости",Известия ТВ
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Новости",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 group-title="Новости",Россия 24
-http://tv.ttk.mx:9006
-#EXTINF:-1 group-title="Новости",Соловьев LIVE
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-
+https://tinyurl.com/roma-123/28/mpegts
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/234/index.m3u8
